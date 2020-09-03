@@ -1,0 +1,133 @@
+body {
+    font-family: 'Lobster', cursive;
+     font-size: 13px;
+     margin-left: 50px;
+     margin-right: 50px;
+     
+     
+    
+    
+}
+
+.Tuto {
+    background:-webkit-linear-gradient(top, rgb(76, 194, 248) 40%, blue 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
+
+.Mark {
+    background:-webkit-linear-gradient(top, rgb(65, 22, 134) 60%, rgb(207, 169, 233) 30%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+
+}
+
+.Img {
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.Para {
+    color: rgb(14, 43, 77);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+}
+
+#Lien{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    
+}
+
+.Site{
+    background:-webkit-linear-gradient(top, rgb(120, 174, 245) 40%, rgb(117, 21, 112) 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+.Re{
+
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 40%, rgb(117, 21, 112) 70%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.Ex{
+    font-weight: bold;
+    font-size: 15px;
+    color: blue;
+    text-decoration: ;
+}
+
+.L {
+    display: flex;
+    flex-direction: column;
+    color: blueviolet;
+    
+    
+}
+
+.Liste{
+    text-align: center;
+    color:  rgb(255, 56, 245);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.Y{
+    text-align: center;
+}
+
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    text-align: center;
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 50%, rgb(117, 21, 112) 50%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    font-weight: bold;
+    }
+    li {
+    margin-bottom:15px;
+}
+
+ol {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    text-align: center;
+    background:-webkit-linear-gradient(top, rgb(16, 70, 141) 50%, rgb(117, 21, 112) 50%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+    font-weight: bold;
+    }
+    li {
+    margin-bottom:15px;
+}
+
+.Im{
+
+    text-align: center;
+    color: rgb(71, 71, 221);
+    font-size: 20px;
+
+}
